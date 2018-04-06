@@ -1,9 +1,9 @@
-## Thank you, Ritika
+## We will sincerely miss you, Matt.
 
-This hosts this [site](http://www.literally.party)
+This repository hosts this [site](http://speck.gq).
 
-Upon finishing up as a Data Scientist in Residence at General Assembly's [Data Science Immersive](https://generalassemb.ly/education/data-science-immersive?utm_medium=social&utm_source=blog&utm_campaign=josephdsi) program, we wanted to create a static site that commemorates all the things we appreciate about Ritika's stellar performance. 
+Matt Speck has been a member of General Assembly's [Data Science Immersive](https://generalassemb.ly/education/data-science-immersive) team in Washington, D.C. for over a year. During his time, he has helped to mentor and train fifty successful, collaborative, and ethical data scientists.
 
-Thank you, Ritika.
+Upon finishing up as a Local Lead Instructor, we wanted to create a static site that expresses our gratitude in a small way. Thank you for all you have done, Matt!
 
-Coded (with minimal edits from a default Bootstrap template) by General Assembly Data Science Immersive Instructor [@josephofiowa](https://twitter.com/josephofiowa) and co-organized by fellow GA DSI Immersive Instructor [@matthewbrems](https://twitter.com/matthewbrems).
+Coded (with minimal edits from a default Bootstrap template) by Global Lead Data Science Immersive Instructor [@matthewbrems](https://twitter.com/matthewbrems).
