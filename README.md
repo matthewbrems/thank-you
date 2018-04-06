@@ -6,4 +6,4 @@ Matt Speck has been a member of General Assembly's [Data Science Immersive](http
 
 Upon finishing up as a Local Lead Instructor, we wanted to create a static site that expresses our gratitude in a small way. Thank you for all you have done, Matt!
 
-Coded (with minimal edits from a default Bootstrap template) by Global Lead Data Science Immersive Instructor [@matthewbrems](https://twitter.com/matthewbrems).
+Coded (with minimal edits from a default Bootstrap template and a previous version of this created by [@josephofiowa](https://twitter.com/josephofiowa)) by Global Lead Data Science Immersive Instructor [@matthewbrems](https://twitter.com/matthewbrems).
